@@ -7,18 +7,12 @@ bio: Software Engineer at Amazon with experience in building large scale,
 interests:
   - SoftwareEngineering
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: github
     icon_pack: fab
     link: https://github.com/shreenathiyer
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/iyershreenath
-  - icon: cv
-    icon_pack: ai
-    link: uploads/Shreenath Iyer.pdf
 organizations:
   - name: Amazon
     url: https://www.amazon.com/
